@@ -1,0 +1,6 @@
+.Reg-bg-container {
+    display: flex;
+    justify-content: center;
+    background-color: azure;
+    padding: 18px;
+}
